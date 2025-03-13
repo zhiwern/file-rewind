@@ -15,6 +15,11 @@ Navigate to the Project Directory:
 ```bash
 cd file-rewind
 ```
+Setup some dependencies:
+
+```bash
+make setup
+```
 Build the Application:
 
 ```bash
